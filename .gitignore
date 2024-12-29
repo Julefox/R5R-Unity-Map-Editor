@@ -16,6 +16,7 @@ Prefabs/developer_prefabs/
 Prefabs/developer_prefabs.meta
 
 # Visual Studio
+.vs
 /.vs
 ReMap/Resources/startupconfig.json
 ReMap/Resources/startupconfig.json.meta
